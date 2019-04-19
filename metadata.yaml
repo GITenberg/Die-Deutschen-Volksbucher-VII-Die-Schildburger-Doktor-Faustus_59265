@@ -1,11 +1,16 @@
 _repo: Die-Deutschen-Volksbucher-VII-Die-Schildburger-Doktor-Faustus_59265
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59265-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwab, Gustav
     gutenberg_agent_id: '50365'
     url: http://www.gutenberg.org/2009/agents/50365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59265#Die-Deutschen-Volksbucher-VII-Die-Schildburger-Doktor-Faustus
 gutenberg_issued: '2019-04-13'
 gutenberg_type: Text
 identifiers:
